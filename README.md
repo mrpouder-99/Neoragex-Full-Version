@@ -225,4 +225,4 @@ This repository serves as the official landing page for NeoRAGEx. The software i
 **Get the most recent version of NeoRAGEx today!**
 
 ---
-**Last updated:** 2026-10-01 16:15:59 UTC
+**Last updated:** 2026-10-01 21:44:03 UTC
